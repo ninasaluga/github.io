@@ -76,3 +76,37 @@
 #msg-box3-13 .mbr-article {
   font-size: 16px;
 }
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #7c706b;
+}
+#menu-0 .mbr-brand__name a {
+  font-size: 36px;
+  font-family: 'Roboto Slab', serif;
+}
+#msg-box1-11 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-11 .mbr-article {
+  color: #fff;
+}
+#content5-7 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-7 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-7 .mbr-article {
+  color: #fff;
+}
