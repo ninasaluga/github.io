@@ -1,0 +1,78 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #7c706b;
+}
+#menu-0 .mbr-brand__name a {
+  font-size: 36px;
+  font-family: 'Roboto Slab', serif;
+}
+#msg-box4-2 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 36px;
+}
+#msg-box4-2 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2 .mbr-article {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box4-2 .btn {
+  font-size: 14px;
+}
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__section {
+  background: #000000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #7c706b;
+}
+#menu-0 .mbr-brand__name a {
+  font-size: 36px;
+  font-family: 'Roboto Slab', serif;
+}
+#header3-10 H3 {
+  font-size: 32px;
+  text-align: center;
+}
+#msg-box3-12 .mbr-header .mbr-header__text {
+  text-align: left;
+}
+#msg-box3-12 .mbr-header .mbr-header__subtext {
+  text-align: left;
+}
+#msg-box3-12 .mbr-article {
+  color: #f97352;
+}
+#msg-box3-12 .mbr-article P {
+  color: #777777;
+  font-size: 16px;
+}
+#msg-box3-13 .mbr-header .mbr-header__text {
+  text-align: left;
+}
+#msg-box3-13 .mbr-header .mbr-header__subtext {
+  text-align: left;
+}
+#msg-box3-13 .mbr-article {
+  font-size: 16px;
+}
