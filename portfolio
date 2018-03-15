@@ -1,0 +1,111 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foundation for Sites</title>
+    <link rel="stylesheet" href="css/foundation.css">
+    <link rel="stylesheet" href="css/app.css">
+  </head>
+  <body>
+    <div class="grid-container"> <div style="width: 1170px;">
+     <ul class="vertical medium-horizontal menu align-right">
+  <li><a href="index.html"><i class="fi-list"></i> <span>Home</span></a></li>
+  <li><a href="websites.html"><i class="fi-list"></i> <span>Websites</span></a></li>
+  <li><a href="domain.html"><i class="fi-list"></i> <span>Domains</span></a></li>
+  <li><a href="pricing.html"><i class="fi-list"></i> <span>Pricing</span></a></li>
+</ul>
+    
+     
+        <div class="large-12 cell">
+          <h1>Welcome to Wordsmith</h1>
+        </div>
+      </div>
+
+      <div class="grid-x grid-padding-x">
+        <div class="large-12 cell">
+          <div class="callout">
+            <h3>At Wordsmith, we're all about creating online experiences that connect brands to their audiences.</h3>
+            <p>Whether you're the CEO of Kellog's or an independent contractor with no web capability, Wordsmith will help you get a jumpstart on building your online presence.</p>
+            <p>Once you're here, check out our many options for establishing your digital home base. Wordsmith offers domain names and URL registration, but if you've already got a domain you can register it here, too. If not, establish your domain and set your website up to start making real connections right now.</p>
+            <div class="grid-x grid-padding-x">
+              <div class="large-4 medium-4 cell">
+                <p><a href="domain.html" class="button">Register a domain here.</a><br/></p>
+              </div>
+              <div class="large-4 medium-4 cell">
+                <p><a href="websites.html" class="button">Set up your website here.</a><br/></p>
+              </div>
+              <div class="large-4 medium-4 cell">
+                <p><a href="domain.html" class="button">Transfer an existing domain here.</a><br/></p>
+              </div>
+            </div>
+			</div>
+        </div>
+      </div>
+      
+
+	 <div class="table"> <div style="width: 1170px;">
+          <div class="callout">
+       <h3>Affordable Pricing</h3> 
+      <table>
+  <thead>
+    <tr>
+      <th width="100">Plan</th>
+      <th>Features</th>
+      <th width="90">Cost</th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Personal</td>
+      <td>Custom domain name, live support, hundreds of free themes and frameworks, remove ads.</td>
+      <td>$4/month</td>
+      <td><a href="about.html" class="button">Learn More</a></td>
+    </tr>
+    <tr>
+      <td>Premium</td>
+      <td>Custom domain name, live support, unlimited free themes and frameworks, monetize yoursite.</td>
+      <td>$8/month</td>
+      <td><a href="about.html" class="button">Learn More</a></td>
+    </tr>
+    <tr>
+      <td>Business</td>
+      <td>Custom domain name, live support, unlimited free themes and frameworks, unlimited storage, SEO, Google Analytics.</td>
+      <td>$20/month</td>
+      <td><a href="about.html" class="button">Learn More</a></td>
+    </tr>
+  </tbody>
+</table>
+		  </div>
+		  </div>
+		 
+       
+        <div class="large-4 medium-4 cell">
+        <div class="card" style="width: 1170px;">
+  <div class="card-divider">
+    <h4>Featured Wordsmith Websites</h4>
+  </div>
+  <img src="domain.png">
+  <div class="card-section">
+    <p><a href="#">Read more... </a></p>
+  </div>
+</div>
+       
+        <!--footer--> 
+         <div class="footer">
+          <div style="width: 1170px;">
+		  <p><a href="http://foundation.zurb.com/sites/docs/">Made with Zurb Foundation</a> &copy; Nina Saluga 2018</p>
+          </div>
+        </div>
+      </div>
+    </div>
+	  </div>
+
+    <script src="js/vendor/jquery.js"></script>
+    <script src="js/vendor/what-input.js"></script>
+    <script src="js/vendor/foundation.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
